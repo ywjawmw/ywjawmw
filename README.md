@@ -17,7 +17,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ywjawmw&bg_color=fff&color=000&theme=github" />
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ywjawmw&repo=github-readme-stats"/>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ywjawmw&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ywjawmw/ywjawmw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
